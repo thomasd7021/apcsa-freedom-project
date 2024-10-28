@@ -13,6 +13,7 @@
 * can atach an arduno to make a controler
 * need to upload a OS to use the RPi
 * can code on my computer and send to the Pi
+* easy to use
 
 
 ### X/X/XX:
